@@ -1,14 +1,14 @@
 site_name: "Brielle's FOSSF24-tutorial"
-site_description: Tell people what this website is about
-site_author: Who you are
-site_url: 'https://foss.cyverse.org'
+site_description: This is a website test for a FOSS tutorial. 
+site_author: A 3rd Year JD Candidate
+site_url:  https://bhadley11.github.io/FOSSF24-tutorial/
 
 # Repository
 repo_name: bhadley11/FOSSF24-tutorial
-repo_url: 'https://github.com/CyVerse-learning-materials/foss'
+repo_url: 'https://github.com/bhadley11/FOSSF24-tutorial/edit/main/mkdocs.yml#L2C19-L2C56'
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024'
+copyright: 'Copyright &copy; 2024 - 2025'
 
 
 # Configuration
