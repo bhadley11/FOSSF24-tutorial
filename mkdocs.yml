@@ -16,7 +16,7 @@ theme:
     name: material
 highlightjs: true
 font:
-    text: Roboto
+    text: Times New Roman
     code: Regular
 palette:
     scheme: default
