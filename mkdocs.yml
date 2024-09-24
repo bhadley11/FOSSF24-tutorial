@@ -51,8 +51,10 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- About Me: abtme.md
+- Publications: pub.md
 - CV: cv.md
-- DMP: dmp.md
+
 # Extra Plugins
 plugins:
     - search
