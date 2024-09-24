@@ -21,6 +21,9 @@ font:
 palette:
     scheme: default
 
+extra_css:
+  - stylesheets/extra.css
+
 # Features  
 features:
 - navigation.instant
